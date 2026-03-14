@@ -41,7 +41,7 @@ Currently pursuing an **MSc in Internet of Things & Smart Systems** at **FH Tech
 
 <div align="center">
 
-![Tech](https://skillicons.dev/icons?i=php,go,ts,js,python,java,nodejs,nestjs,laravel,react,nextjs,vue,nuxtjs,tailwind,html,css,docker,aws,jenkins,githubactions,grafana,linux,debian,ubuntu,mysql,postgres,mongodb,redis&theme=light)
+![Tech](https://skillicons.dev/icons?i=php,go,ts,js,python,java,nodejs,nestjs,laravel,symfony,codeigniter,react,nextjs,vue,nuxtjs,tailwind,html,css,docker,aws,jenkins,githubactions,grafana,linux,debian,ubuntu,mysql,postgres,mongodb,redis&theme=light)
 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
